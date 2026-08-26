@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+void print_math(int a, int b) {
+    int sum = a + b;
+    int product = a * b;
+    printf("Sum: [%d]\n", sum);
+    printf("Product: [%d]\n", product);
+}
+
+int main() {
+    int a;
+    int b;
+    printf("%s ", "Enter number A: ");
+    scanf("%d", &a);
+
+    printf("%s ", "Enter number B: ");
+    scanf("%d", &b);
+
+    print_math(a, b);
+}
