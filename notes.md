@@ -1,7 +1,4 @@
-# Bootcamp Notes
+# Module 4 notes
 
-## Module 1
-
-- Set up Java and VS Code
-- Learned the compile-run cycle
-- First Java program: Hello World
+In this module, I learned git commands and basics.
+I learned how to create commits, create branches, and push to remote repositories.
